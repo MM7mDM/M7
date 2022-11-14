@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="اهلا بك في!" />
         <p className="description">
-          m7plus <code>pages/index.js</code>
+          m7plus <code></code>
         </p>
       </main>
 
